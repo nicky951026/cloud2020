@@ -1,0 +1,6 @@
+# Project exclude paths
+/cloud-api-commons/target/
+/cloud-config-center-3344/target/
+/cloud-eureka-server7001/target/
+/cloud-gateway-gateway9527/target/
+/cloud-provider-payment8001/target/
